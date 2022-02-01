@@ -8,7 +8,9 @@ sites:
   - name: Mira App
     url: https://app.miraapp.io
   - name: Metrocrowd Beta
-    url: https://app-beta.metrocrowd.io/
+    url: https://app-beta.metrocrowd.io
+  - name: Metrohouse Beta
+    url: https://app-beta.metrohouse.io
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
