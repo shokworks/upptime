@@ -11,6 +11,9 @@ sites:
     url: https://app-beta.metrocrowd.io/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+    
+assignees:
+  - jorgerojas919
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
