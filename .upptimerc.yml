@@ -9,6 +9,8 @@ sites:
     url: https://app.miraapp.io
   - name: Metrocrowd Beta
     url: https://app-beta.metrocrowd.io
+  - name: API Metrocrowd Beta
+    url: https://api-beta.metrocrowd.io/api/docs/
   - name: Metrohouse Beta
     url: https://app-beta.metrohouse.io
   - name: Test Broken Site
