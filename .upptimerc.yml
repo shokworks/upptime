@@ -13,6 +13,10 @@ sites:
     url: https://api-beta.metrocrowd.io/api/docs/
   - name: Metrohouse Beta
     url: https://app-beta.metrohouse.io
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
